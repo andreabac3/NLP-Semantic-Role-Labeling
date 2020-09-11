@@ -1,0 +1,15 @@
+Flask==1.1.1
+requests==2.23.0
+scikit-learn==0.22.2
+numpy==1.18.2
+
+# my packages
+tqdm==4.47.0
+torch==1.5.1
+matplotlib==3.2.2
+torchtext==0.6.0
+pytorch-crf==0.7.2
+transformers==2.11.0
+seaborn==0.10.1
+scipy==1.5.0
+
