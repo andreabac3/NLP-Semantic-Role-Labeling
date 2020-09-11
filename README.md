@@ -10,6 +10,8 @@ My work got the highest macro f1 score of the whole class.
 
 This model makes use of syntactic features via Graph Convolutional Network, Contextualized word embeddings (bert) and the Biaffine Attention Layer.
 
+In this image you can see the final model:
+![final model pic](images/modello_pic.png)
 
 ### GCN 
 To exploit the syntactic features I used the GCN layer from the work of Kipf & Welling as done by Marcheggiani et al.
@@ -20,6 +22,7 @@ I expressed this graph in matrix form, using an adjancency matrix. This adjacenc
 #### GCN Batch wise training
 
 In order to support batches I used a block diagonal matrix, where all the adjacency matrix of a batch are present along the diagonal. As shown in the figure below.
+![batch wise gcn](images/batch_wise_gcn.png)
 
 ### BERT
 
