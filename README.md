@@ -1,6 +1,6 @@
 # Semantic Role labeling - Syntax-aware, BERT, Biaffine Attention Layer
 
-This repository reports the research carried out in the field of Semantic Role Labeling during the Natural Language Processing course for the academic year 2019/2020 of Professor Navigli.
+This repository reports the research carried out in the field of Semantic Role Labeling during the Natural Language Processing course for the academic year 2019/2020 of Professor Roberto Navigli.
 
 You can consult the report here and the slides used for the presentation here.
 
